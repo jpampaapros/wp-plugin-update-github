@@ -23,4 +23,4 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
 $myUpdateChecker->setBranch('main');
 
 // ACCESS TOKEN
-$myUpdateChecker->setAuthentication('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');
+$myUpdateChecker->setAuthentication('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');
